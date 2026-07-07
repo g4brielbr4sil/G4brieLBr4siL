@@ -107,24 +107,6 @@ Atualmente venho trabalhando e estudando em projetos ligados a:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=g4brielbr4sil&show_icons=true&theme=algolia&locale=pt-br&hide_border=true&rank_icon=github"
-    alt="Estatísticas do GitHub"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brielbr4sil&layout=compact&theme=algolia&locale=pt-br&hide_border=true"
-    alt="Linguagens mais usadas"
-  />
-</p>
-
----
-
 ## 📌 Objetivo
 
 Estou em constante evolução como desenvolvedor, buscando unir prática, estudo e projetos reais para criar soluções cada vez mais completas, eficientes e profissionais.
