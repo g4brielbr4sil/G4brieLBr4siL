@@ -4,9 +4,9 @@
 
 📍 Brasília, Distrito Federal, Brasil
 
-Analista de Sistemas Jr. e Desenvolvedor Júnior com experiência prática em desenvolvimento web, automação de processos, análise de sistemas, integrações, testes, homologação e implantação de soluções digitais.
+Analista de Sistemas Jr. e Desenvolvedor Júnior com experiência prática em desenvolvimento de aplicações web, automação de processos, integrações, análise de sistemas, testes, homologação e implantação de soluções digitais.
 
-Atuação no levantamento de requisitos, mapeamento de processos, identificação de bugs e suporte aos usuários. Experiência com React, TypeScript, Supabase, APIs REST, Python, FastAPI, Docker e infraestrutura em nuvem.
+Atuação em desenvolvimento e evolução de interfaces e sistemas web, levantamento de requisitos, mapeamento de processos, integração com APIs, identificação de bugs e suporte aos usuários. Experiência com React, TypeScript, Supabase, APIs REST, Python, FastAPI, Docker e infraestrutura em nuvem.
 
 ---
 
@@ -86,8 +86,8 @@ Atuação no levantamento de requisitos, mapeamento de processos, identificaçã
 
 ## 🧠 Áreas de atuação
 
+- Desenvolvimento de aplicações web e interfaces responsivas
 - Análise de sistemas e levantamento de requisitos
-- Desenvolvimento de aplicações web
 - Automação de processos e fluxos operacionais
 - Integrações com APIs REST e serviços externos
 - Mapeamento de processos e regras de negócio
