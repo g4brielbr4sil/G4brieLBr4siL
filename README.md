@@ -4,11 +4,11 @@
 
 📍 Brasília, Distrito Federal, Brasil
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na UDF** e atuo com tecnologia em desenvolvimento web, automação de processos, integrações, análise de sistemas, testes, homologação, suporte técnico e melhoria contínua.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na UDF** e atuo com desenvolvimento web, automação de processos, integrações, análise de sistemas, testes funcionais, homologação, suporte técnico e melhoria contínua.
 
-Tenho experiência prática na construção de aplicações próprias, evolução de sistemas, levantamento de requisitos, definição de regras de negócio, mapeamento de processos, identificação e reprodução de bugs, acompanhamento de correções, versionamento e deploy.
+Tenho experiência prática no desenvolvimento de aplicações próprias, levantamento de requisitos, definição de regras de negócio, mapeamento de processos, reprodução de bugs, acompanhamento de correções, versionamento, Pull Requests, CI e deploy.
 
-Atualmente busco uma oportunidade júnior em tecnologia nas áreas de **Análise de Sistemas, Desenvolvimento de Software, Front-end, Implantação, Suporte Técnico ou Automação e Integrações**.
+Busco uma oportunidade júnior em **Análise de Sistemas, Desenvolvimento de Software, Front-end, Implantação, Suporte Técnico ou Automação e Integrações**.
 
 ---
 
@@ -16,35 +16,19 @@ Atualmente busco uma oportunidade júnior em tecnologia nas áreas de **Análise
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabrielbrasildev" target="_blank">
-    <img
-      alt="LinkedIn"
-      title="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
+    <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:g4brielbr4sil@gmail.com" target="_blank">
-    <img
-      alt="E-mail"
-      title="E-mail"
-      src="https://img.shields.io/badge/E--mail-2D6A4F?style=for-the-badge&logo=gmail&logoColor=white"
-    />
+    <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/E--mail-2D6A4F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://github.com/g4brielbr4sil" target="_blank">
-    <img
-      alt="GitHub"
-      title="GitHub"
-      src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
-    />
+    <img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://www.instagram.com/gb.efxp04/" target="_blank">
-    <img
-      alt="Instagram"
-      title="Instagram"
-      src="https://img.shields.io/badge/Instagram-7A3E9D?style=for-the-badge&logo=instagram&logoColor=white"
-    />
+    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-7A3E9D?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -85,7 +69,7 @@ Atualmente busco uma oportunidade júnior em tecnologia nas áreas de **Análise
   <img alt="Figma" title="Figma" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img alt="Linux" title="Linux" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img alt="Ubuntu" title="Ubuntu" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-  <img alt="Amazon Web Services" title="Amazon Lightsail / AWS" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="AWS" title="AWS · Amazon Lightsail" width="42px" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
   <img alt="Hostinger" title="Hostinger" width="42px" src="https://cdn.simpleicons.org/hostinger/673DE6" />
   <img alt="n8n" title="n8n" width="42px" src="https://cdn.simpleicons.org/n8n/EA4B71" />
 </p>
@@ -121,47 +105,54 @@ Atualmente busco uma oportunidade júnior em tecnologia nas áreas de **Análise
 
 ### Levens Qualifica | PNQC
 
-Plataforma de formação, progressão e certificação de cuidadores desenvolvida diretamente por mim e colocada em produção.
+Plataforma educacional desenvolvida diretamente por mim para organizar a formação de cuidadores.
 
-**Principais entregas:** autenticação, perfis de acesso, cursos, módulos, aulas, vídeos, progresso sequencial, avaliações por módulo, nota mínima de 70%, certificados e verificação pública.
+**Implementado e conectado:** autenticação com Supabase, perfis de acesso, cursos, módulos, aulas em vídeo, progresso sequencial e avaliações por módulo com nota mínima de 70%.
+
+**Em evolução:** certificados, verificação pública, badges e painéis de agência e administração ainda possuem partes demonstrativas que precisam de integração completa.
 
 **Stack:** React, TypeScript, Vite, Supabase, PostgreSQL e Cloudflare Pages.
 
 [🔗 Acessar aplicação](https://levens-qualifica-pnqc.pages.dev/)
 
-> O código permanece privado enquanto segurança e propriedade intelectual são revisadas.
+> O código permanece privado por segurança e propriedade intelectual.
 
 ### Hermes Command Center
 
-Aplicação Full Stack própria para centralizar rotina, projetos, CRM, finanças, estudos, relatórios, alertas, automações e integrações em um ambiente operacional privado.
+Aplicação Full Stack autoral para centralizar CRM, pipeline, finanças, tarefas, rotina, estudos, relatórios, memória, aprovações, integrações e automações em um ambiente operacional privado.
 
-**Stack:** React, TypeScript, Python, FastAPI, SQLAlchemy, SQLite, Docker, Ubuntu, Amazon Lightsail e Cloudflare Pages.
+O projeto possui frontend protegido, API FastAPI, banco SQLite, SQLAlchemy, Alembic, Docker, filas, auditoria e políticas que bloqueiam pagamentos e exigem aprovação para ações externas.
+
+**Stack:** React, TypeScript, Python, FastAPI, SQLAlchemy, SQLite, Docker, Ubuntu, AWS Amazon Lightsail e Cloudflare Pages.
 
 [🔗 Acessar interface protegida](https://hermes-agent-01l.pages.dev/)
 
-> O repositório permanece privado por conter lógica operacional e contexto pessoal. Um case público sanitizado está em preparação.
+> O repositório permanece privado porque contém lógica operacional e contexto pessoal. O case público deve usar dados fictícios.
 
 ### Barthy Web Studio V2
 
-Site institucional e apresentação digital da Barthy Web Studio, operação própria de soluções digitais para pequenos negócios.
+Segunda versão do site institucional da Barthy Web Studio, operação própria de soluções digitais para pequenos negócios.
 
-O projeto trabalha direção editorial, temas, responsividade, acessibilidade, progressive enhancement, shader WebGPU, fallback CSS, formulário seguro e organização de cases.
+A V2 apresenta projetos, soluções, processo e contato por meio de uma experiência editorial com progressive enhancement, WebGPU, fallback CSS e modo estático para movimento reduzido.
+
+A animação ainda passa por validação em diferentes dispositivos e resoluções antes da publicação definitiva.
 
 [🔗 Ver repositório V2](https://github.com/g4brielbr4sil/barthy-web-studio-v2)
 
 ### Barthy Web Studio V1
 
-Primeira versão da experiência digital da Barthy, mantida como evidência da evolução técnica e visual do projeto.
+Primeira versão do site da Barthy, com apresentação comercial extensa, catálogo de soluções, CRM, sistemas, pacotes e formulário integrado ao Hermes ou ao WhatsApp.
 
+[🔗 Ver aplicação V1](https://barthy-web-studio.pages.dev/)  
 [🔗 Ver repositório V1](https://github.com/g4brielbr4sil/barthy-web-studio)
 
 ---
 
 ## 🏢 Experiência aplicada na Levens
 
-Meu cargo formal é **Assistente Administrativo**, com atuação ampliada em atividades ligadas a tecnologia e processos.
+Meu cargo formal é **Assistente Administrativo**, com atuação ampliada em tecnologia, sistemas e processos.
 
-Nos portais do Cuidador, Família, Agência, Agenciado e sistema interno, minha participação envolveu:
+Nos portais do Cuidador, Família, Agência, Agenciado e no sistema interno, minha participação envolveu:
 
 - levantamento de requisitos
 - definição de regras de negócio
