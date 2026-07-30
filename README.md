@@ -4,11 +4,9 @@
 
 📍 Brasília, Distrito Federal, Brasil
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na UDF** e atuo com desenvolvimento web, automação de processos, integrações, análise de sistemas, testes funcionais, homologação, suporte técnico e melhoria contínua.
+Analista de Sistemas Jr. e Desenvolvedor Júnior com experiência prática em desenvolvimento web, automação de processos, análise de sistemas, integrações, testes, homologação e implantação de soluções digitais.
 
-Tenho experiência prática no desenvolvimento de aplicações próprias, levantamento de requisitos, definição de regras de negócio, mapeamento de processos, reprodução de bugs, acompanhamento de correções, versionamento, Pull Requests, CI e deploy.
-
-Busco uma oportunidade júnior em **Análise de Sistemas, Desenvolvimento de Software, Front-end, Implantação, Suporte Técnico ou Automação e Integrações**.
+Atuação no levantamento de requisitos, mapeamento de processos, identificação de bugs e suporte aos usuários. Experiência com React, TypeScript, Supabase, APIs REST, Python, FastAPI, Docker e infraestrutura em nuvem.
 
 ---
 
@@ -36,7 +34,7 @@ Busco uma oportunidade júnior em **Análise de Sistemas, Desenvolvimento de Sof
 
 ## 🚀 Tecnologias e Ferramentas
 
-### Front-end aplicado em projetos
+### Front-end
 
 <p align="left">
   <img alt="HTML" title="HTML" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -49,7 +47,7 @@ Busco uma oportunidade júnior em **Análise de Sistemas, Desenvolvimento de Sof
   <img alt="Material UI" title="Material UI" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
 </p>
 
-### Back-end, dados e APIs aplicados em projetos
+### Back-end, dados e APIs
 
 <p align="left">
   <img alt="Python" title="Python" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -69,7 +67,7 @@ Busco uma oportunidade júnior em **Análise de Sistemas, Desenvolvimento de Sof
   <img alt="Figma" title="Figma" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img alt="Linux" title="Linux" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img alt="Ubuntu" title="Ubuntu" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-  <img alt="AWS" title="AWS · Amazon Lightsail" width="42px" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
+  <img alt="AWS" title="AWS · Amazon Lightsail" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img alt="Hostinger" title="Hostinger" width="42px" src="https://cdn.simpleicons.org/hostinger/673DE6" />
   <img alt="n8n" title="n8n" width="42px" src="https://cdn.simpleicons.org/n8n/EA4B71" />
 </p>
@@ -86,18 +84,17 @@ Busco uma oportunidade júnior em **Análise de Sistemas, Desenvolvimento de Sof
 
 ---
 
-## 🧠 Competências
+## 🧠 Áreas de atuação
 
 - Análise de sistemas e levantamento de requisitos
-- Mapeamento de processos e definição de regras de negócio
-- Desenvolvimento de aplicações web e interfaces responsivas
-- Integrações com APIs REST e serviços externos
-- Autenticação, permissões e controle de acesso
+- Desenvolvimento de aplicações web
 - Automação de processos e fluxos operacionais
+- Integrações com APIs REST e serviços externos
+- Mapeamento de processos e regras de negócio
 - Testes funcionais, homologação e reprodução de bugs
 - Suporte técnico e acompanhamento de incidentes
 - Versionamento, Pull Requests, CI e deploy
-- Documentação técnica e comunicação entre operação e tecnologia
+- Documentação técnica e melhoria contínua
 
 ---
 
@@ -105,11 +102,11 @@ Busco uma oportunidade júnior em **Análise de Sistemas, Desenvolvimento de Sof
 
 ### Levens Qualifica | PNQC
 
-Plataforma educacional desenvolvida diretamente por mim para organizar a formação de cuidadores.
+Plataforma educacional desenvolvida para organizar a formação de cuidadores.
 
-**Implementado e conectado:** autenticação com Supabase, perfis de acesso, cursos, módulos, aulas em vídeo, progresso sequencial e avaliações por módulo com nota mínima de 70%.
+**Implementado:** autenticação com Supabase, perfis de acesso, cursos, módulos, aulas em vídeo, progresso sequencial e avaliações por módulo com nota mínima de 70%.
 
-**Em evolução:** certificados, verificação pública, badges e painéis de agência e administração ainda possuem partes demonstrativas que precisam de integração completa.
+**Em evolução:** certificados, verificação pública, badges e painéis de agência e administração.
 
 **Stack:** React, TypeScript, Vite, Supabase, PostgreSQL e Cloudflare Pages.
 
@@ -121,13 +118,11 @@ Plataforma educacional desenvolvida diretamente por mim para organizar a formaç
 
 Aplicação Full Stack autoral para centralizar CRM, pipeline, finanças, tarefas, rotina, estudos, relatórios, memória, aprovações, integrações e automações em um ambiente operacional privado.
 
-O projeto possui frontend protegido, API FastAPI, banco SQLite, SQLAlchemy, Alembic, Docker, filas, auditoria e políticas que bloqueiam pagamentos e exigem aprovação para ações externas.
-
 **Stack:** React, TypeScript, Python, FastAPI, SQLAlchemy, SQLite, Docker, Ubuntu, AWS Amazon Lightsail e Cloudflare Pages.
 
 [🔗 Acessar interface protegida](https://hermes-agent-01l.pages.dev/)
 
-> O repositório permanece privado porque contém lógica operacional e contexto pessoal. O case público deve usar dados fictícios.
+> O repositório permanece privado porque contém lógica operacional e contexto pessoal.
 
 ### Barthy Web Studio V2
 
@@ -135,48 +130,19 @@ Segunda versão do site institucional da Barthy Web Studio, operação própria 
 
 A V2 apresenta projetos, soluções, processo e contato por meio de uma experiência editorial com progressive enhancement, WebGPU, fallback CSS e modo estático para movimento reduzido.
 
-A animação ainda passa por validação em diferentes dispositivos e resoluções antes da publicação definitiva.
-
 [🔗 Ver repositório V2](https://github.com/g4brielbr4sil/barthy-web-studio-v2)
 
 ### Barthy Web Studio V1
 
-Primeira versão do site da Barthy, com apresentação comercial extensa, catálogo de soluções, CRM, sistemas, pacotes e formulário integrado ao Hermes ou ao WhatsApp.
+Primeira versão do site da Barthy, com apresentação comercial, catálogo de soluções, sistemas, pacotes e formulário integrado ao Hermes ou ao WhatsApp.
 
 [🔗 Ver aplicação V1](https://barthy-web-studio.pages.dev/)  
 [🔗 Ver repositório V1](https://github.com/g4brielbr4sil/barthy-web-studio)
 
 ---
 
-## 🏢 Experiência aplicada na Levens
-
-Meu cargo formal é **Assistente Administrativo**, com atuação ampliada em tecnologia, sistemas e processos.
-
-Nos portais do Cuidador, Família, Agência, Agenciado e no sistema interno, minha participação envolveu:
-
-- levantamento de requisitos
-- definição de regras de negócio
-- arquitetura funcional e desenho de jornadas
-- mapeamento de processos e criação de fluxogramas
-- identificação e reprodução de bugs
-- testes funcionais e homologação
-- acompanhamento de correções
-- suporte aos usuários
-- automações, integrações e melhoria contínua
-- comunicação entre operação, gestão e tecnologia
-
-Minha atuação nesses portais foi funcional, analítica e operacional. **Não fui responsável pela programação direta do código dos portais.**
-
----
-
 ## 🎓 Formação
 
-**Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas**  
-UDF Centro Universitário  
+**Tecnólogo em Análise e Desenvolvimento de Sistemas, cursando**  
+UDF, Centro Universitário do Distrito Federal  
 Janeiro de 2022 a dezembro de 2027
-
----
-
-## 🎯 Objetivo profissional
-
-Busco uma oportunidade júnior em que eu possa contribuir com análise de sistemas, desenvolvimento web, automações, integrações, testes, implantação e suporte técnico, utilizando minha experiência prática com projetos reais e evoluindo junto com uma equipe de tecnologia.
