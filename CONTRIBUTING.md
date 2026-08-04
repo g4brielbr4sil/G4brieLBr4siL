@@ -36,7 +36,7 @@ Exemplos:
 ```text
 feat: adicionar filtros ao pipeline
 fix: corrigir carregamento do perfil
-Docs: atualizar README com a arquitetura real
+docs: atualizar README com a arquitetura real
 refactor: separar serviços de autenticação
 test: cobrir fluxo de recuperação de senha
 ci: validar typecheck e build
