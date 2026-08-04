@@ -130,6 +130,12 @@ Primeira versão pública do site institucional da Barthy Web Studio.
 UDF, Centro Universitário do Distrito Federal  
 Formação em andamento, com conclusão prevista para dezembro de 2027
 
+## Padrão dos meus projetos
+
+A documentação, os commits e as Pull Requests dos meus projetos usam português do Brasil, com linguagem técnica, clara e direta. Os commits seguem Conventional Commits com o prefixo técnico em inglês e a descrição em português, como `feat: adicionar nova funcionalidade`.
+
+O padrão completo está disponível em [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
 ## Contato
 
 - Portfólio: [portfolio-gabriel-brasil.pages.dev](https://portfolio-gabriel-brasil.pages.dev/)
