@@ -14,26 +14,26 @@ Brasília, Distrito Federal, Brasil
 
 ## Sobre mim
 
-Sou Analista de Sistemas e Desenvolvedor com experiência prática na construção e evolução de aplicações web, APIs, automações, integrações e ferramentas voltadas a operações reais.
+Sou Analista de Sistemas e Desenvolvedor. Trabalho com aplicações web, APIs, automações, integrações e ferramentas que resolvem problemas reais de operação.
 
-Gosto de participar do processo inteiro: entender o problema, levantar requisitos, organizar regras de negócio, desenvolver a solução, testar, homologar, documentar e acompanhar o que acontece depois da publicação.
+Gosto de entender o problema antes de sair programando. Normalmente participo do processo inteiro: requisitos, regras de negócio, desenvolvimento, testes, homologação, documentação e acompanhamento depois da publicação.
 
-Tenho atuado principalmente com React, TypeScript, Python, FastAPI, SQLAlchemy, SQLite, PostgreSQL, Docker, GitHub Actions e Cloudflare Pages.
+Hoje uso principalmente React, TypeScript, Python, FastAPI, SQLAlchemy, SQLite, PostgreSQL, Docker, GitHub Actions e Cloudflare Pages.
 
-Atualmente estou focado em oportunidades nas áreas de desenvolvimento de software, análise de sistemas, automação, integrações e suporte técnico com visão de produto.
+Estou buscando oportunidades em desenvolvimento de software, análise de sistemas, automação, integrações e suporte técnico com visão de produto.
 
 ## O que eu faço
 
-- desenvolvimento de aplicações web responsivas
-- construção de APIs REST e serviços back-end
+- aplicações web responsivas
+- APIs REST e serviços back-end
 - análise de sistemas e levantamento de requisitos
-- automação de processos e fluxos operacionais
+- automação de processos e rotinas
 - integrações com serviços externos
 - modelagem de regras de negócio
-- testes funcionais, homologação e reprodução de bugs
+- testes, homologação e reprodução de bugs
 - suporte técnico e acompanhamento de incidentes
 - versionamento, Pull Requests, CI e deploy
-- documentação técnica e melhoria contínua
+- documentação técnica
 
 ## Tecnologias que uso
 
@@ -86,7 +86,7 @@ Atualmente estou focado em oportunidades nas áreas de desenvolvimento de softwa
 
 ### Portfólio profissional
 
-Portfólio criado para apresentar meus projetos, decisões técnicas, responsabilidades e evidências reais de entrega.
+Criei este portfólio para apresentar projetos reais, decisões técnicas, responsabilidades e evidências de entrega.
 
 **Stack:** React, TypeScript, Vite, Tailwind CSS, Motion, Radix UI e Cloudflare Pages.
 
@@ -95,7 +95,7 @@ Portfólio criado para apresentar meus projetos, decisões técnicas, responsabi
 
 ### Barthy Web Studio V2
 
-Projeto autoral com identidade visual própria, temas claro e escuro reais, navegação acessível, progressive enhancement e fallback visual para recursos avançados.
+Projeto autoral com identidade visual própria, temas claro e escuro, navegação acessível, progressive enhancement e alternativas para dispositivos sem recursos gráficos avançados.
 
 [Ver repositório](https://github.com/g4brielbr4sil/barthy-web-studio-v2)
 
@@ -103,19 +103,19 @@ Projeto autoral com identidade visual própria, temas claro e escuro reais, nave
 
 Plataforma educacional em produção com autenticação, perfis, cursos, módulos, aulas, progresso sequencial, avaliações por funções RPC e nota mínima de 70%.
 
-A implementação existente utiliza React, TypeScript, Vite, Supabase Auth, PostgreSQL e Cloudflare Pages. Essa stack descreve este projeto específico e não define minha escolha para novos produtos.
+A implementação atual usa React, TypeScript, Vite, Supabase Auth, PostgreSQL e Cloudflare Pages.
 
 [Acessar aplicação](https://levens-qualifica-pnqc.pages.dev/)
 
 ### Hermes Command Center
 
-Aplicação Full Stack autoral para centralizar CRM, pipeline, finanças, tarefas, rotina, estudos, relatórios, memória, aprovações e integrações controladas.
+Aplicação Full Stack autoral para organizar CRM, pipeline, finanças, tarefas, rotina, estudos, relatórios, memória, aprovações e integrações controladas.
 
 **Stack:** React, TypeScript, Python, FastAPI, SQLAlchemy, SQLite, Docker, Ubuntu, Amazon Lightsail e Cloudflare Pages.
 
 [Acessar interface protegida](https://hermes-agent-01l.pages.dev/)
 
-O repositório permanece privado porque contém lógica operacional e contexto pessoal.
+O repositório é privado porque contém lógica operacional e contexto pessoal.
 
 ### Barthy Web Studio V1
 
@@ -128,13 +128,7 @@ Primeira versão pública do site institucional da Barthy Web Studio.
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 UDF, Centro Universitário do Distrito Federal  
-Formação em andamento, com conclusão prevista para dezembro de 2027
-
-## Padrão dos meus projetos
-
-A documentação, os commits e as Pull Requests dos meus projetos usam português do Brasil, com linguagem técnica, clara e direta. Os commits seguem Conventional Commits com o prefixo técnico em inglês e a descrição em português, como `feat: adicionar nova funcionalidade`.
-
-O padrão completo está disponível em [`CONTRIBUTING.md`](CONTRIBUTING.md).
+Conclusão prevista para dezembro de 2027
 
 ## Contato
 
