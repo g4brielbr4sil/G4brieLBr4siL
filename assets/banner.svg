@@ -1,43 +1,61 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#080B12"/>
-      <stop offset="0.55" stop-color="#0D1117"/>
-      <stop offset="1" stop-color="#0A1020"/>
+      <stop stop-color="#070B12"/>
+      <stop offset="0.52" stop-color="#0B1320"/>
+      <stop offset="1" stop-color="#08111F"/>
     </linearGradient>
-    <radialGradient id="glow1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(955 95) rotate(145) scale(390 210)">
-      <stop stop-color="#58A6FF" stop-opacity="0.22"/>
-      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    <radialGradient id="horizon" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(860 240) rotate(90) scale(150 330)">
+      <stop stop-color="#58A6FF" stop-opacity="0.40"/>
+      <stop offset="0.35" stop-color="#2F81F7" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#2F81F7" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="glow2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(780 310) rotate(-25) scale(350 140)">
-      <stop stop-color="#8B5CF6" stop-opacity="0.15"/>
-      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#30363D" stroke-opacity="0.24"/>
+    <linearGradient id="wave" x1="80" y1="300" x2="1120" y2="210" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1F6FEB" stop-opacity="0.08"/>
+      <stop offset="0.55" stop-color="#58A6FF" stop-opacity="0.56"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.10"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#30363D" stroke-opacity="0.18"/>
     </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
   </defs>
-  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
-  <rect width="1200" height="360" rx="22" fill="url(#glow1)"/>
-  <rect width="1200" height="360" rx="22" fill="url(#glow2)"/>
 
-  <path d="M36 60V35H61M1164 60V35H1139M36 300V325H61M1164 300V325H1139" stroke="#58A6FF" stroke-width="2"/>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#horizon)"/>
 
-  <text x="70" y="88" fill="#8B949E" font-size="14" letter-spacing="2.4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">GABRIEL BRASIL</text>
-  <text x="70" y="170" fill="#F0F6FC" font-size="58" font-weight="700" letter-spacing="1" font-family="Inter, Segoe UI, Arial, sans-serif">FULL STACK DEVELOPER</text>
-  <text x="73" y="213" fill="#58A6FF" font-size="20" font-weight="600" letter-spacing="4" font-family="Inter, Segoe UI, Arial, sans-serif">SYSTEMS ANALYSIS · WEB · AUTOMATION · AI</text>
-  <text x="73" y="258" fill="#B1BAC4" font-size="16" letter-spacing="1.2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">React · TypeScript · Python · FastAPI · PostgreSQL · Docker</text>
+  <circle cx="1080" cy="62" r="1.5" fill="#58A6FF" fill-opacity="0.8"/>
+  <circle cx="1016" cy="90" r="1" fill="#C9D1D9" fill-opacity="0.5"/>
+  <circle cx="1128" cy="116" r="1" fill="#C9D1D9" fill-opacity="0.45"/>
+  <circle cx="942" cy="55" r="1" fill="#C9D1D9" fill-opacity="0.4"/>
+  <circle cx="900" cy="92" r="1.2" fill="#58A6FF" fill-opacity="0.5"/>
 
-  <g transform="translate(1030 170)">
-    <circle cx="0" cy="0" r="56" stroke="#58A6FF" stroke-opacity="0.16"/>
-    <circle cx="0" cy="0" r="37" stroke="#58A6FF" stroke-opacity="0.25"/>
-    <path d="M-56 0H56M0-56V56" stroke="#58A6FF" stroke-opacity="0.16"/>
-    <circle cx="0" cy="0" r="6" fill="#58A6FF"/>
-    <circle cx="22" cy="-20" r="3" fill="#8B5CF6"/>
-    <circle cx="-29" cy="15" r="3" fill="#3FB950"/>
+  <text x="72" y="76" fill="#8B949E" font-size="14" letter-spacing="2.2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">GABRIEL BRASIL</text>
+  <text x="72" y="160" fill="#F0F6FC" font-size="58" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">Junior Full Stack Developer</text>
+  <text x="74" y="205" fill="#58A6FF" font-size="20" font-weight="600" letter-spacing="2.6" font-family="Inter, Segoe UI, Arial, sans-serif">WEB PRODUCTS · AUTOMATION · AI SYSTEMS</text>
+
+  <g transform="translate(74 242)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <text x="0" y="0" fill="#C9D1D9">Build</text>
+    <circle cx="62" cy="-5" r="3" fill="#30363D"/>
+    <text x="82" y="0" fill="#C9D1D9">Automate</text>
+    <circle cx="166" cy="-5" r="3" fill="#30363D"/>
+    <text x="186" y="0" fill="#C9D1D9">Scale</text>
   </g>
 
-  <line x1="73" y1="295" x2="1127" y2="295" stroke="#30363D"/>
-  <text x="73" y="326" fill="#8B949E" font-size="12" letter-spacing="1.3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">BRASÍLIA · BRAZIL</text>
+  <path d="M80 316C220 274 342 336 492 294C642 252 724 304 854 252C977 203 1054 231 1120 215" stroke="url(#wave)" stroke-width="2"/>
+  <path d="M80 328C222 290 353 348 504 308C651 269 742 318 871 266C986 220 1062 242 1120 230" stroke="#58A6FF" stroke-opacity="0.14"/>
+  <path d="M80 340C236 307 362 360 520 324C676 288 758 333 892 283C1000 243 1073 255 1120 246" stroke="#58A6FF" stroke-opacity="0.08"/>
+
+  <circle cx="862" cy="252" r="6" fill="#58A6FF"/>
+  <circle cx="862" cy="252" r="24" fill="#58A6FF" fill-opacity="0.12" filter="url(#glow)"/>
+
+  <g transform="translate(1010 105)" stroke="#58A6FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 52L32 20M0 52L32 84"/>
+    <path d="M92 20L124 52L92 84"/>
+    <path d="M75 6L54 98"/>
+  </g>
+  <path d="M982 92V72H1002M1158 92V72H1138M982 208V228H1002M1158 208V228H1138" stroke="#58A6FF" stroke-width="2" stroke-opacity="0.8"/>
 </svg>
