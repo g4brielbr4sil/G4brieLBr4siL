@@ -1,17 +1,14 @@
-<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1200" height="230" rx="18" fill="#0D1117"/><rect x="1" y="1" width="1198" height="228" rx="17" stroke="#30363D"/>
-<circle cx="57" cy="52" r="19" fill="#0E2238"/><path d="M48 55c4-10 14-10 18 0M57 44a6 6 0 1 0 0 .1" stroke="#58A6FF" stroke-width="2" stroke-linecap="round"/>
-<text x="90" y="59" fill="#F0F6FC" font-size="24" font-weight="700" font-family="Inter,Segoe UI,Arial,sans-serif">Sobre mim</text>
-<text x="42" y="103" fill="#C9D1D9" font-size="17" font-family="Inter,Segoe UI,Arial,sans-serif">Sou Gabriel Brasil, de Brasília. Desenvolvo aplicações web, APIs, automações e integrações,</text>
-<text x="42" y="129" fill="#C9D1D9" font-size="17" font-family="Inter,Segoe UI,Arial,sans-serif">transformando problemas reais em produtos digitais funcionais e bem estruturados.</text>
-<text x="42" y="155" fill="#8B949E" font-size="15" font-family="Inter,Segoe UI,Arial,sans-serif">Gosto de entender como as coisas funcionam por dentro e conectar interface, dados e operação.</text>
-<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
-<rect x="42" y="181" width="183" height="30" rx="8" fill="#111C2A" stroke="#26364B"/><text x="60" y="201" fill="#58A6FF">APLICAÇÕES WEB</text>
-<rect x="238" y="181" width="120" height="30" rx="8" fill="#111C2A" stroke="#26364B"/><text x="257" y="201" fill="#58A6FF">APIs REST</text>
-<rect x="371" y="181" width="151" height="30" rx="8" fill="#111C2A" stroke="#26364B"/><text x="390" y="201" fill="#58A6FF">AUTOMAÇÕES</text>
-<rect x="535" y="181" width="151" height="30" rx="8" fill="#111C2A" stroke="#26364B"/><text x="554" y="201" fill="#58A6FF">INTEGRAÇÕES</text>
-<rect x="699" y="181" width="108" height="30" rx="8" fill="#111C2A" stroke="#26364B"/><text x="719" y="201" fill="#58A6FF">DADOS</text>
-<rect x="820" y="181" width="93" height="30" rx="8" fill="#111C2A" stroke="#26364B"/><text x="840" y="201" fill="#58A6FF">IA</text>
-</g>
-<g transform="translate(825 45)" font-family="Inter,Segoe UI,Arial,sans-serif"><text x="0" y="0" fill="#8B949E" font-size="13" letter-spacing="1.6">FORA DO CÓDIGO</text><text x="0" y="34" fill="#F0F6FC" font-size="16">Games  ·  Futebol  ·  Corrida  ·  Música</text></g>
+<svg width="1200" height="290" viewBox="0 0 1200 290" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="290" rx="24" fill="#0D1117"/>
+<rect x="1" y="1" width="1198" height="288" rx="23" stroke="#30363D"/>
+<text x="48" y="60" fill="#F0F6FC" font-size="30" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Sobre mim</text>
+<text x="48" y="96" fill="#8B949E" font-size="16" font-family="Segoe UI, Arial, sans-serif">Quem sou eu?</text>
+<text x="48" y="138" fill="#C9D1D9" font-size="21" font-family="Segoe UI, Arial, sans-serif">
+<tspan x="48" dy="0">Sou Gabriel Brasil, de Brasília, e sempre fui o tipo de pessoa que precisa entender como as</tspan>
+<tspan x="48" dy="31">coisas funcionam por dentro. Meu contato com tecnologia começou muito antes de pensar nisso</tspan>
+<tspan x="48" dy="31">como profissão, mexendo em computadores, instalando Windows, configurando sistemas,</tspan>
+<tspan x="48" dy="31">testando programas e aprendendo na prática a resolver problemas. Hoje transformo essa curiosidade</tspan>
+<tspan x="48" dy="31">em aplicações web, APIs, automações e integrações. Fora do código, gosto de games, futebol,</tspan>
+<tspan x="48" dy="31">corrida e música. Muitas ideias surgem justamente quando estou longe da tela.</tspan>
+</text>
 </svg>
