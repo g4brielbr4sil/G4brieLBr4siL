@@ -1,0 +1,23 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320"><stop stop-color="#070B12"/><stop offset=".55" stop-color="#0B1320"/><stop offset="1" stop-color="#07111F"/></linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(875 238) rotate(90) scale(145 330)"><stop stop-color="#58A6FF" stop-opacity=".42"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></radialGradient>
+  <linearGradient id="wave" x1="80" y1="300" x2="1120" y2="210"><stop stop-color="#1F6FEB" stop-opacity=".08"/><stop offset=".58" stop-color="#58A6FF" stop-opacity=".62"/><stop offset="1" stop-color="#8B5CF6" stop-opacity=".1"/></linearGradient>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#30363D" stroke-opacity=".18"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/><rect width="1200" height="320" rx="22" fill="url(#grid)"/><rect width="1200" height="320" rx="22" fill="url(#glow)"/>
+<text x="70" y="58" fill="#8B949E" font-size="14" letter-spacing="2.2" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">GABRIEL BRASIL</text>
+<text x="70" y="137" fill="#F0F6FC" font-size="54" font-weight="700" font-family="Inter,Segoe UI,Arial,sans-serif">Desenvolvedor Full Stack Júnior</text>
+<text x="72" y="181" fill="#58A6FF" font-size="20" font-weight="600" letter-spacing="2.2" font-family="Inter,Segoe UI,Arial,sans-serif">ANÁLISE DE SISTEMAS · WEB · AUTOMAÇÃO · IA</text>
+<g transform="translate(72 220)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#C9D1D9">
+  <circle cx="7" cy="-5" r="5" stroke="#58A6FF"/><text x="22" y="0">Construir</text><circle cx="105" cy="-5" r="3" fill="#30363D"/>
+  <circle cx="137" cy="-5" r="5" stroke="#58A6FF"/><text x="152" y="0">Automatizar</text><circle cx="255" cy="-5" r="3" fill="#30363D"/>
+  <circle cx="287" cy="-5" r="5" stroke="#58A6FF"/><text x="302" y="0">Evoluir</text>
+</g>
+<path d="M80 292C220 252 344 310 492 275C642 239 728 286 857 239C978 195 1058 218 1120 206" stroke="url(#wave)" stroke-width="2"/>
+<path d="M80 306C230 270 350 323 507 290C655 259 746 302 875 255C987 215 1063 233 1120 224" stroke="#58A6FF" stroke-opacity=".12"/>
+<circle cx="860" cy="239" r="5" fill="#58A6FF"/><circle cx="860" cy="239" r="18" fill="#58A6FF" fill-opacity=".10"/>
+<g transform="translate(1000 92)" stroke="#58A6FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M0 52L32 20M0 52L32 84"/><path d="M92 20L124 52L92 84"/><path d="M75 6L54 98"/></g>
+<path d="M972 79V61H992M1150 79V61H1130M972 197V215H992M1150 197V215H1130" stroke="#58A6FF" stroke-width="2" stroke-opacity=".8"/>
+<text x="72" y="274" fill="#8B949E" font-size="13" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Brasília, DF · Brasil</text>
+</svg>
