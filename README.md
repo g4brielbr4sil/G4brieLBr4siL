@@ -152,17 +152,6 @@ Identifiquei e reproduzi bugs, executei testes funcionais, homologuei alteraçõ
 
 Também participei de automações, integrações, documentação técnica e melhorias nos processos internos da operação.
 
-### Levens · Assistente Administrativo
-**jun. 2025 a fev. 2026 · Brasília, DF**
-
-Atuação em rotinas administrativas e operacionais, com foco no setor de cadastros, atendimento a profissionais, conferência de informações e documentos e acompanhamento dos processos internos da empresa.
-
-Utilização diária do Bitrix24, planilhas e WhatsApp corporativo para registro, atualização e organização de informações, acompanhamento de cadastros, controle de demandas e comunicação com profissionais e equipe interna.
-
-Também participei do levantamento inicial de processos, necessidades e fluxos da operação que posteriormente serviram de base para a estruturação dos sistemas internos da Levens.
-
-Ao longo desse período, passei a contribuir cada vez mais com análise de processos e melhorias operacionais, aproximando minha atuação da área de tecnologia e levando posteriormente à transição para Desenvolvimento Júnior.
-
 ### Acclivity · Estagiário de Desenvolvimento de Jogos
 **jan. 2023 a jun. 2023 · Brasília, DF**
 
